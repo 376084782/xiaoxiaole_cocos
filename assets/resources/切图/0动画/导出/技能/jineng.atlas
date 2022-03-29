@@ -1,0 +1,132 @@
+
+jineng.png
+size: 669,517
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ZI
+  rotate: false
+  xy: 1, 35
+  size: 372, 141
+  orig: 372, 141
+  offset: 0, 0
+  index: -1
+ZI2
+  rotate: false
+  xy: 1, 178
+  size: 413, 160
+  orig: 413, 160
+  offset: 0, 0
+  index: -1
+bj1
+  rotate: false
+  xy: 1, 340
+  size: 500, 176
+  orig: 500, 176
+  offset: 0, 0
+  index: -1
+chuizi
+  rotate: false
+  xy: 503, 345
+  size: 165, 171
+  orig: 165, 171
+  offset: 0, 0
+  index: -1
+cz
+  rotate: true
+  xy: 416, 159
+  size: 88, 89
+  orig: 88, 89
+  offset: 0, 0
+  index: -1
+cz0
+  rotate: false
+  xy: 416, 249
+  size: 89, 89
+  orig: 89, 89
+  offset: 0, 0
+  index: -1
+cz2
+  rotate: false
+  xy: 507, 254
+  size: 89, 89
+  orig: 89, 89
+  offset: 0, 0
+  index: -1
+hei
+  rotate: false
+  xy: 556, 89
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+sx
+  rotate: false
+  xy: 507, 163
+  size: 89, 89
+  orig: 89, 89
+  offset: 0, 0
+  index: -1
+sx0
+  rotate: false
+  xy: 466, 68
+  size: 88, 89
+  orig: 88, 89
+  offset: 0, 0
+  index: -1
+sx2
+  rotate: false
+  xy: 375, 68
+  size: 89, 89
+  orig: 89, 89
+  offset: 0, 0
+  index: -1
+tiao
+  rotate: false
+  xy: 1, 14
+  size: 202, 19
+  orig: 202, 19
+  offset: 0, 0
+  index: -1
+yan_004
+  rotate: true
+  xy: 509, 10
+  size: 56, 53
+  orig: 68, 66
+  offset: 5, 5
+  index: -1
+yan_006
+  rotate: false
+  xy: 444, 5
+  size: 63, 61
+  orig: 68, 66
+  offset: 2, 2
+  index: -1
+yan_008
+  rotate: false
+  xy: 375, 1
+  size: 67, 65
+  orig: 68, 66
+  offset: 1, 0
+  index: -1
+yan_010
+  rotate: false
+  xy: 598, 209
+  size: 68, 66
+  orig: 68, 66
+  offset: 0, 0
+  index: -1
+yan_012
+  rotate: false
+  xy: 598, 141
+  size: 68, 66
+  orig: 68, 66
+  offset: 0, 0
+  index: -1
+yan_014
+  rotate: false
+  xy: 598, 277
+  size: 68, 66
+  orig: 68, 66
+  offset: 0, 0
+  index: -1

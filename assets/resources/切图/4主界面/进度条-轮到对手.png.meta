@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "7fcd8ace-0fd2-4a91-bc54-c9f57dcb8490",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 132,
+  "height": 36,
+  "platformSettings": {},
+  "subMetas": {
+    "进度条-轮到对手": {
+      "ver": "1.0.4",
+      "uuid": "1f48538e-044e-4002-9803-5de793303e0c",
+      "rawTextureUuid": "7fcd8ace-0fd2-4a91-bc54-c9f57dcb8490",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 132,
+      "height": 36,
+      "rawWidth": 132,
+      "rawHeight": 36,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

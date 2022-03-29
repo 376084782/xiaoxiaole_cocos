@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "1ae91251-2553-4049-b999-362262bd0e20",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 750,
+  "height": 776,
+  "platformSettings": {},
+  "subMetas": {
+    "灰色遮罩-消消乐区域": {
+      "ver": "1.0.4",
+      "uuid": "b39c17dc-2756-474a-989d-e999c72bde38",
+      "rawTextureUuid": "1ae91251-2553-4049-b999-362262bd0e20",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 750,
+      "height": 776,
+      "rawWidth": 750,
+      "rawHeight": 776,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

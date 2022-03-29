@@ -1,0 +1,25 @@
+info face="字制区喜脉体" size=35 bold=0 italic=0 charset="" unicode=1 stretchH=100 smooth=1 aa=1 padding=8,8,8,8 spacing=8,8 outline=0
+common lineHeight=35 base=27 scaleW=256 scaleH=256 pages=1 packed=0 alphaChnl=0 redChnl=4 greenChnl=4 blueChnl=4
+page id=0 file="回合数字-红_0.png"
+chars count=21
+char id=0    x=229   y=49    width=17    height=17    xoffset=-8    yoffset=-8    xadvance=0     page=0  chnl=15
+char id=33   x=83    y=98    width=21    height=40    xoffset=-5    yoffset=-3    xadvance=11    page=0  chnl=15
+char id=43   x=112   y=98    width=33    height=36    xoffset=-5    yoffset=-1    xadvance=23    page=0  chnl=15
+char id=46   x=30    y=153   width=21    height=24    xoffset=-6    yoffset=11    xadvance=9     page=0  chnl=15
+char id=47   x=40    y=0     width=29    height=43    xoffset=-8    yoffset=-6    xadvance=14    page=0  chnl=15
+char id=48   x=118   y=0     width=32    height=41    xoffset=-7    yoffset=-5    xadvance=19    page=0  chnl=15
+char id=49   x=0     y=104   width=28    height=41    xoffset=-5    yoffset=-5    xadvance=18    page=0  chnl=15
+char id=50   x=0     y=55    width=31    height=41    xoffset=-6    yoffset=-4    xadvance=18    page=0  chnl=15
+char id=51   x=78    y=49    width=30    height=41    xoffset=-6    yoffset=-4    xadvance=18    page=0  chnl=15
+char id=52   x=77    y=0     width=33    height=41    xoffset=-7    yoffset=-5    xadvance=19    page=0  chnl=15
+char id=53   x=116   y=49    width=30    height=41    xoffset=-6    yoffset=-5    xadvance=18    page=0  chnl=15
+char id=54   x=158   y=0     width=32    height=41    xoffset=-7    yoffset=-5    xadvance=19    page=0  chnl=15
+char id=55   x=154   y=49    width=30    height=41    xoffset=-6    yoffset=-5    xadvance=18    page=0  chnl=15
+char id=56   x=39    y=55    width=31    height=41    xoffset=-6    yoffset=-5    xadvance=18    page=0  chnl=15
+char id=57   x=198   y=0     width=32    height=41    xoffset=-7    yoffset=-5    xadvance=19    page=0  chnl=15
+char id=58   x=0     y=153   width=22    height=35    xoffset=-6    yoffset=1     xadvance=10    page=0  chnl=15
+char id=63   x=192   y=49    width=29    height=41    xoffset=-7    yoffset=-5    xadvance=15    page=0  chnl=15
+char id=77   x=36    y=104   width=39    height=40    xoffset=-6    yoffset=-6    xadvance=27    page=0  chnl=15
+char id=92   x=0     y=0     width=32    height=47    xoffset=-8    yoffset=-8    xadvance=16    page=0  chnl=15
+char id=109  x=190   y=98    width=41    height=35    xoffset=-7    yoffset=0     xadvance=27    page=0  chnl=15
+char id=115  x=153   y=98    width=29    height=36    xoffset=-7    yoffset=-1    xadvance=14    page=0  chnl=15

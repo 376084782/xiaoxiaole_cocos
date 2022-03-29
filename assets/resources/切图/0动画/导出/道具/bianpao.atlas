@@ -1,0 +1,118 @@
+
+bianpao.png
+size: 607,507
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BP
+  rotate: false
+  xy: 281, 127
+  size: 116, 167
+  orig: 116, 167
+  offset: 0, 0
+  index: -1
+ZI1
+  rotate: true
+  xy: 532, 410
+  size: 96, 46
+  orig: 96, 46
+  offset: 0, 0
+  index: -1
+ZI2
+  rotate: false
+  xy: 1, 1
+  size: 96, 46
+  orig: 96, 46
+  offset: 0, 0
+  index: -1
+di
+  rotate: false
+  xy: 258, 296
+  size: 218, 75
+  orig: 218, 75
+  offset: 0, 0
+  index: -1
+g
+  rotate: false
+  xy: 258, 373
+  size: 272, 133
+  orig: 272, 133
+  offset: 0, 0
+  index: -1
+gm
+  rotate: false
+  xy: 478, 243
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+guangyun
+  rotate: false
+  xy: 1, 251
+  size: 255, 255
+  orig: 255, 255
+  offset: 0, 0
+  index: -1
+k0
+  rotate: true
+  xy: 203, 39
+  size: 210, 76
+  orig: 210, 76
+  offset: 0, 0
+  index: -1
+k1
+  rotate: true
+  xy: 399, 88
+  size: 206, 67
+  orig: 206, 67
+  offset: 0, 0
+  index: -1
+k2
+  rotate: true
+  xy: 468, 35
+  size: 206, 67
+  orig: 206, 67
+  offset: 0, 0
+  index: -1
+xian
+  rotate: false
+  xy: 99, 7
+  size: 327, 5
+  orig: 327, 5
+  offset: 0, 0
+  index: -1
+xing1
+  rotate: false
+  xy: 537, 107
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1
+xing2
+  rotate: false
+  xy: 537, 175
+  size: 69, 66
+  orig: 69, 66
+  offset: 0, 0
+  index: -1
+xing3
+  rotate: true
+  xy: 399, 16
+  size: 70, 67
+  orig: 70, 67
+  offset: 0, 0
+  index: -1
+yan
+  rotate: true
+  xy: 281, 14
+  size: 111, 116
+  orig: 111, 116
+  offset: 0, 0
+  index: -1
+yuan
+  rotate: false
+  xy: 1, 49
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1

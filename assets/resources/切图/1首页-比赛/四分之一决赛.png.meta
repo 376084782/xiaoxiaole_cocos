@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "49de01ed-5ad8-487d-b8b8-3cd9c5352b4b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 222,
+  "height": 46,
+  "platformSettings": {},
+  "subMetas": {
+    "四分之一决赛": {
+      "ver": "1.0.4",
+      "uuid": "08590db6-1b23-457a-965e-cabf56ea12ae",
+      "rawTextureUuid": "49de01ed-5ad8-487d-b8b8-3cd9c5352b4b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 222,
+      "height": 46,
+      "rawWidth": 222,
+      "rawHeight": 46,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

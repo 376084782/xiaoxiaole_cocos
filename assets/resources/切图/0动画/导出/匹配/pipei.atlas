@@ -1,0 +1,111 @@
+
+pipei.png
+size: 1894,920
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 988, 29
+  size: 138, 138
+  orig: 138, 138
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 1128, 29
+  size: 138, 138
+  orig: 138, 138
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 1268, 29
+  size: 138, 138
+  orig: 138, 138
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 1408, 29
+  size: 138, 138
+  orig: 138, 138
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 1548, 29
+  size: 138, 138
+  orig: 138, 138
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 1688, 29
+  size: 138, 138
+  orig: 138, 138
+  offset: 0, 0
+  index: -1
+BJ
+  rotate: true
+  xy: 1, 169
+  size: 750, 1400
+  orig: 750, 1400
+  offset: 0, 0
+  index: -1
+VS
+  rotate: false
+  xy: 1, 1
+  size: 66, 51
+  orig: 66, 51
+  offset: 0, 0
+  index: -1
+ZI1
+  rotate: false
+  xy: 486, 25
+  size: 282, 56
+  orig: 282, 56
+  offset: 0, 0
+  index: -1
+ZI2
+  rotate: false
+  xy: 728, 111
+  size: 258, 56
+  orig: 258, 56
+  offset: 0, 0
+  index: -1
+deng
+  rotate: true
+  xy: 1, 54
+  size: 113, 325
+  orig: 113, 325
+  offset: 0, 0
+  index: -1
+kuang1
+  rotate: true
+  xy: 1403, 169
+  size: 750, 244
+  orig: 750, 244
+  offset: 0, 0
+  index: -1
+kuang2
+  rotate: true
+  xy: 1649, 169
+  size: 750, 244
+  orig: 750, 244
+  offset: 0, 0
+  index: -1
+quxiao
+  rotate: false
+  xy: 486, 83
+  size: 240, 84
+  orig: 240, 84
+  offset: 0, 0
+  index: -1
+touxiang0
+  rotate: false
+  xy: 328, 5
+  size: 156, 162
+  orig: 156, 162
+  offset: 0, 0
+  index: -1

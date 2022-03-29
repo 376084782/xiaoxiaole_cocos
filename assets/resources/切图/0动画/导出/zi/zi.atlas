@@ -1,0 +1,83 @@
+
+zi.png
+size: 1097,494
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Skillful
+  rotate: false
+  xy: 258, 325
+  size: 589, 168
+  orig: 589, 168
+  offset: 0, 0
+  index: -1
+bullseye
+  rotate: false
+  xy: 258, 225
+  size: 435, 98
+  orig: 435, 98
+  offset: 0, 0
+  index: -1
+extra_H
+  rotate: false
+  xy: 1, 50
+  size: 310, 173
+  orig: 310, 173
+  offset: 0, 0
+  index: -1
+extra_L
+  rotate: false
+  xy: 313, 50
+  size: 310, 173
+  orig: 310, 173
+  offset: 0, 0
+  index: -1
+guangyun
+  rotate: false
+  xy: 1, 238
+  size: 255, 255
+  orig: 255, 255
+  offset: 0, 0
+  index: -1
+nice
+  rotate: false
+  xy: 625, 1
+  size: 371, 170
+  orig: 371, 170
+  offset: 0, 0
+  index: -1
+time
+  rotate: true
+  xy: 849, 173
+  size: 320, 240
+  orig: 320, 240
+  offset: 0, 0
+  index: -1
+xian
+  rotate: true
+  xy: 1091, 166
+  size: 327, 5
+  orig: 327, 5
+  offset: 0, 0
+  index: -1
+xing1
+  rotate: false
+  xy: 695, 188
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1
+xing2
+  rotate: true
+  xy: 767, 254
+  size: 69, 66
+  orig: 69, 66
+  offset: 0, 0
+  index: -1
+xing3
+  rotate: false
+  xy: 695, 256
+  size: 70, 67
+  orig: 70, 67
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,104 @@
+
+kapai.png
+size: 1792,370
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kp/KB_R
+  rotate: true
+  xy: 1, 186
+  size: 183, 254
+  orig: 183, 254
+  offset: 0, 0
+  index: -1
+kp/KB_h
+  rotate: true
+  xy: 257, 186
+  size: 183, 254
+  orig: 183, 254
+  offset: 0, 0
+  index: -1
+kp/KM_h1
+  rotate: true
+  xy: 513, 186
+  size: 183, 254
+  orig: 183, 254
+  offset: 0, 0
+  index: -1
+kp/KM_h1_1
+  rotate: true
+  xy: 1281, 186
+  size: 183, 254
+  orig: 183, 254
+  offset: 0, 0
+  index: -1
+kp/KM_h2
+  rotate: true
+  xy: 769, 186
+  size: 183, 254
+  orig: 183, 254
+  offset: 0, 0
+  index: -1
+kp/KM_h2_1
+  rotate: true
+  xy: 1537, 186
+  size: 183, 254
+  orig: 183, 254
+  offset: 0, 0
+  index: -1
+kp/KM_h3
+  rotate: true
+  xy: 1025, 186
+  size: 183, 254
+  orig: 183, 254
+  offset: 0, 0
+  index: -1
+kp/KM_h3_1
+  rotate: true
+  xy: 1, 1
+  size: 183, 254
+  orig: 183, 254
+  offset: 0, 0
+  index: -1
+kp/KM_r1
+  rotate: true
+  xy: 257, 1
+  size: 183, 254
+  orig: 183, 254
+  offset: 0, 0
+  index: -1
+kp/KM_r1_1
+  rotate: true
+  xy: 1025, 1
+  size: 183, 254
+  orig: 183, 254
+  offset: 0, 0
+  index: -1
+kp/KM_r2
+  rotate: true
+  xy: 513, 1
+  size: 183, 254
+  orig: 183, 254
+  offset: 0, 0
+  index: -1
+kp/KM_r2_1
+  rotate: true
+  xy: 1281, 1
+  size: 183, 254
+  orig: 183, 254
+  offset: 0, 0
+  index: -1
+kp/KM_r3
+  rotate: true
+  xy: 769, 1
+  size: 183, 254
+  orig: 183, 254
+  offset: 0, 0
+  index: -1
+kp/KM_r3_1
+  rotate: true
+  xy: 1537, 1
+  size: 183, 254
+  orig: 183, 254
+  offset: 0, 0
+  index: -1

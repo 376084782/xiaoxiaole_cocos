@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "00bb3587-9f86-4a6d-9482-f4af95d0f954",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 750,
+  "height": 367,
+  "platformSettings": {},
+  "subMetas": {
+    "比赛背景1": {
+      "ver": "1.0.4",
+      "uuid": "0eed493a-cc1b-4ae1-99da-acfdbcc1b427",
+      "rawTextureUuid": "00bb3587-9f86-4a6d-9482-f4af95d0f954",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 750,
+      "height": 367,
+      "rawWidth": 750,
+      "rawHeight": 367,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
